@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/ru/tag/academic/</link>
-      <atom:link href="https://example.com/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <title>Academic | Демидова Е. А.</title>
+    <link>https://eademidova.github.io/ru/tag/academic/</link>
+      <atom:link href="https://eademidova.github.io/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://eademidova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/ru/tag/academic/</link>
+      <link>https://eademidova.github.io/ru/tag/academic/</link>
     </image>
     
     <item>
       <title>Неделя 1</title>
-      <link>https://example.com/ru/post/week1/</link>
+      <link>https://eademidova.github.io/ru/post/week1/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/week1/</guid>
+      <guid>https://eademidova.github.io/ru/post/week1/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;За прошедшую неделю были выполнены лабораторые работы 5 и 6 на следующие темы:&lt;/p&gt;
 &lt;ol&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Неделя 2</title>
-      <link>https://example.com/ru/post/week-2/</link>
+      <link>https://eademidova.github.io/ru/post/week-2/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/week-2/</guid>
+      <guid>https://eademidova.github.io/ru/post/week-2/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;За прошедшую неделю были выполнены лабораторые работы 7 и 8 на следующие темы:&lt;/p&gt;
 &lt;ol&gt;
@@ -81,9 +81,9 @@
     
     <item>
       <title>Неделя 3</title>
-      <link>https://example.com/ru/post/week3/</link>
+      <link>https://eademidova.github.io/ru/post/week3/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/week3/</guid>
+      <guid>https://eademidova.github.io/ru/post/week3/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;За прошедшую неделю были выполнены лабораторые работы 9 и 10 на следующие темы:&lt;/p&gt;
 &lt;ol&gt;
@@ -132,9 +132,9 @@
     
     <item>
       <title>Неделя 4</title>
-      <link>https://example.com/ru/post/week-4/</link>
+      <link>https://eademidova.github.io/ru/post/week-4/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/week-4/</guid>
+      <guid>https://eademidova.github.io/ru/post/week-4/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;За прошедшую неделю были выполнены лабораторые работы 11 и 12 на следующие темы:&lt;/p&gt;
 &lt;ol&gt;
@@ -202,9 +202,9 @@ $?, выдать сообщение о том, какое число было в
     
     <item>
       <title>Оформление отчёта.</title>
-      <link>https://example.com/ru/post/rep/</link>
+      <link>https://eademidova.github.io/ru/post/rep/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/rep/</guid>
+      <guid>https://eademidova.github.io/ru/post/rep/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
 &lt;ol&gt;
@@ -253,9 +253,9 @@ $?, выдать сообщение о том, какое число было в
     
     <item>
       <title>Управление версиями. Git</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://eademidova.github.io/ru/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://eademidova.github.io/ru/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
 &lt;ol&gt;
@@ -276,9 +276,9 @@ $?, выдать сообщение о том, какое число было в
     
     <item>
       <title>Языки научного программирования.</title>
-      <link>https://example.com/ru/post/science_prog/</link>
+      <link>https://eademidova.github.io/ru/post/science_prog/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/science_prog/</guid>
+      <guid>https://eademidova.github.io/ru/post/science_prog/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
 &lt;ol&gt;
@@ -327,9 +327,9 @@ B Julia pеализована возможность JIT - компиляции 
     
     <item>
       <title>Языки разметки. LaTeX.</title>
-      <link>https://example.com/ru/post/latex/</link>
+      <link>https://eademidova.github.io/ru/post/latex/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/latex/</guid>
+      <guid>https://eademidova.github.io/ru/post/latex/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
 &lt;ol&gt;

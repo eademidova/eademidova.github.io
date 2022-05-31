@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>开源 | Academic</title>
-    <link>https://example.com/ru/tag/%E5%BC%80%E6%BA%90/</link>
-      <atom:link href="https://example.com/ru/tag/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <title>开源 | Демидова Е. А.</title>
+    <link>https://eademidova.github.io/ru/tag/%E5%BC%80%E6%BA%90/</link>
+      <atom:link href="https://eademidova.github.io/ru/tag/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <description>开源</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://eademidova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>开源</title>
-      <link>https://example.com/ru/tag/%E5%BC%80%E6%BA%90/</link>
+      <link>https://eademidova.github.io/ru/tag/%E5%BC%80%E6%BA%90/</link>
     </image>
     
     <item>
       <title>Неделя 1</title>
-      <link>https://example.com/ru/post/week1/</link>
+      <link>https://eademidova.github.io/ru/post/week1/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/week1/</guid>
+      <guid>https://eademidova.github.io/ru/post/week1/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;За прошедшую неделю были выполнены лабораторые работы 5 и 6 на следующие темы:&lt;/p&gt;
 &lt;ol&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Управление версиями. Git</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://eademidova.github.io/ru/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://eademidova.github.io/ru/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
 &lt;ol&gt;

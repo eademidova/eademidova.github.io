@@ -4,94 +4,34 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://eademidova.github.io/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https://eademidova.github.io/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://eademidova.github.io/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https://eademidova.github.io/event/"
     /></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https://eademidova.github.io/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/tag/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/tag/academic/"
-    /></url>
-  <url>
-    <loc>https://example.com/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/categories/"
-    /></url>
-  <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/category/demo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/category/demo/"
-    /></url>
-  <url>
-    <loc>https://example.com/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/post/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/post/"
-    /></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/tags/"
+      href="https://eademidova.github.io/"
     /></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -104,84 +44,54 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/post/week1/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/week1/"
+      href="https://eademidova.github.io/ru/tag/academic/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/week1/"
+      href="https://eademidova.github.io/tag/academic/"
     /></url>
   <url>
-    <loc>https://example.com/post/week-2/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/week-2/"
+      href="https://eademidova.github.io/ru/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/week-2/"
+      href="https://eademidova.github.io/categories/"
     /></url>
   <url>
-    <loc>https://example.com/post/week3/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/week3/"
+      href="https://eademidova.github.io/ru/category/demo/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/week3/"
+      href="https://eademidova.github.io/category/demo/"
     /></url>
   <url>
-    <loc>https://example.com/post/week-4/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/week-4/"
+      href="https://eademidova.github.io/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/week-4/"
+      href="https://eademidova.github.io/post/"
     /></url>
   <url>
-    <loc>https://example.com/post/rep/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/rep/"
+      href="https://eademidova.github.io/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/rep/"
-    /></url>
-  <url>
-    <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/post/getting-started/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/post/getting-started/"
-    /></url>
-  <url>
-    <loc>https://example.com/post/science_prog/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/post/science_prog/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/post/science_prog/"
-    /></url>
-  <url>
-    <loc>https://example.com/post/latex/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/post/latex/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/post/latex/"
+      href="https://eademidova.github.io/tags/"
     /></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -194,114 +104,204 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/post/week1/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/%E5%BC%80%E6%BA%90/"
+      href="https://eademidova.github.io/ru/post/week1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/%E5%BC%80%E6%BA%90/"
+      href="https://eademidova.github.io/post/week1/"
     /></url>
   <url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/post/week-2/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/%E6%95%99%E7%A8%8B/"
+      href="https://eademidova.github.io/ru/post/week-2/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/%E6%95%99%E7%A8%8B/"
+      href="https://eademidova.github.io/post/week-2/"
     /></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/post/week3/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https://eademidova.github.io/ru/post/week3/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href="https://eademidova.github.io/post/week3/"
     /></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/post/week-4/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://eademidova.github.io/ru/post/week-4/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https://eademidova.github.io/post/week-4/"
     /></url>
   <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/post/rep/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/deep-learning/"
+      href="https://eademidova.github.io/ru/post/rep/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/deep-learning/"
+      href="https://eademidova.github.io/post/rep/"
     /></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https://eademidova.github.io/ru/post/getting-started/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https://eademidova.github.io/post/getting-started/"
     /></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/post/science_prog/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example/"
+      href="https://eademidova.github.io/ru/post/science_prog/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example/"
+      href="https://eademidova.github.io/post/science_prog/"
     /></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/post/latex/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://eademidova.github.io/ru/post/latex/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https://eademidova.github.io/post/latex/"
     /></url>
   <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https://eademidova.github.io/ru/tag/%E5%BC%80%E6%BA%90/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="https://eademidova.github.io/tag/%E5%BC%80%E6%BA%90/"
     /></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://eademidova.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https://eademidova.github.io/ru/category/%E6%95%99%E7%A8%8B/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="https://eademidova.github.io/category/%E6%95%99%E7%A8%8B/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/slides/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/slides/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/slides/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/slides/example/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/tag/deep-learning/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/tag/deep-learning/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/project/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/project/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/project/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/project/example/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/publication-type/1/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/publication-type/1/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/publication/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/publication/example/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/publication_types/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
