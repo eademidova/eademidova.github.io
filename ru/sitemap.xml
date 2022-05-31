@@ -104,6 +104,16 @@
       href=""
     /></url>
   <url>
+    <loc>https://eademidova.github.io/ru/post/fifo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/post/fifo/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/post/fifo/"
+    /></url>
+  <url>
     <loc>https://eademidova.github.io/ru/post/week1/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -142,6 +152,16 @@
       rel="alternate"
       hreflang="ru"
       href="https://eademidova.github.io/ru/post/week-4/"
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/ru/post/week-5/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/post/week-5/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/post/week-5/"
     /></url>
   <url>
     <loc>https://eademidova.github.io/ru/post/rep/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -184,35 +204,11 @@
       href="https://eademidova.github.io/ru/post/latex/"
     /></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /></url>
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://eademidova.github.io/ru/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eademidova.github.io/tag/%E5%BC%80%E6%BA%90/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eademidova.github.io/ru/tag/%E5%BC%80%E6%BA%90/"
-    /></url>
+    <loc>https://eademidova.github.io/ru/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://eademidova.github.io/ru/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://eademidova.github.io/category/%E6%95%99%E7%A8%8B/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://eademidova.github.io/ru/category/%E6%95%99%E7%A8%8B/"
-    /></url>
+    <loc>https://eademidova.github.io/ru/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://eademidova.github.io/ru/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
