@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Демидова Е. А.</title>
+    <link>https://example.com/ru/tag/deep-learning/</link>
+      <atom:link href="https://example.com/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://example.com/ru/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Реализация класса векторов на c&#43;&#43;</title>
+      <link>https://example.com/ru/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/example/</guid>
+      <description>&lt;p&gt;Что нужно знать для реализации?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Указатели&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Move семантика (Дополнительный этап)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;rValue и lValue ссылки (Дополнительный этап)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Шаблоны&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Итераторы (Дополнительный этап)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Переопределение операторов&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Класс Vector должен иметь следующие поля рrivate :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Размерность вектора&lt;/li&gt;
+&lt;li&gt;Массив значений вектора&lt;/li&gt;
+&lt;li&gt;Порядковый номер вектора
+Класс Vестоr должен иметь следующие поля public :&lt;/li&gt;
+&lt;li&gt;Количество созданных векторов ( static )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Необходимо реализовать следующие функции или методы класса:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Набор конструкторов класса, включающий конструктор копирования&lt;/li&gt;
+&lt;li&gt;Деструктор • Функция отображения вектора и его номера ( print )&lt;/li&gt;
+&lt;li&gt;Оператор - функции :&lt;/li&gt;
+&lt;li&gt;сложения / вычитания векторов&lt;/li&gt;
+&lt;li&gt;унарный минус&lt;/li&gt;
+&lt;li&gt;скалярного произведения векторов&lt;/li&gt;
+&lt;li&gt;присваивания&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
