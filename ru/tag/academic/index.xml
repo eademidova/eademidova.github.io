@@ -5,12 +5,46 @@
     <link>https://eademidova.github.io/ru/tag/academic/</link>
       <atom:link href="https://eademidova.github.io/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eademidova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://eademidova.github.io/ru/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Неделя 1. НП</title>
+      <link>https://eademidova.github.io/ru/post/week1_2.0/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://eademidova.github.io/ru/post/week1_2.0/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;За прошедшую неделю были выполнены лабораторые работы 1 и 2 на следующие темы:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Управление версиями&lt;/li&gt;
+&lt;li&gt;Markdown.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;лабораторная-работа-1&#34;&gt;Лабораторная работа №1&lt;/h2&gt;
+&lt;p&gt;В результате выполнения лабораторной работы была изучена идеология и применение средств контроля версий. А также освоены умения по работе с git, были обретены навыки создания ключей, репозитория, добавления и удаления файлов из репозитория.&lt;/p&gt;
+&lt;p&gt;Были выполнены следующие задачи:&lt;/p&gt;
+&lt;p&gt;– Создать базовую конфигурацию для работы с git.
+– Создать ключ SSH.
+– Создать ключ PGP.
+– Настроить подписи git.
+– Зарегистрироваться на Github.
+– Создать локальный каталог для выполнения заданий по предмету.&lt;/p&gt;
+&lt;h2 id=&#34;лабораторная-работа-2&#34;&gt;Лабораторная работа №2&lt;/h2&gt;
+&lt;p&gt;В результате выполнения лабораторной работы я научилась оформлять отчёт с помощью языка разметки markdown&lt;/p&gt;
+&lt;p&gt;Были выполнены следующие задачи:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Вставить скриншоты в папку image&lt;/li&gt;
+&lt;li&gt;Вставить необходимую литературу в файл cite.bib&lt;/li&gt;
+&lt;li&gt;Написать текст отчета&lt;/li&gt;
+&lt;li&gt;Скомпилировать отчет&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;За прошедшую неделю я освоила умения работы с Git и Markdown.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Именованные каналы (FIFOs - First In First Out)</title>

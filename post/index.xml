@@ -5,12 +5,48 @@
     <link>https://eademidova.github.io/post/</link>
       <atom:link href="https://eademidova.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eademidova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://eademidova.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Week 1. NP</title>
+      <link>https://eademidova.github.io/post/week1_2.0/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://eademidova.github.io/post/week1_2.0/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Over the past week, laboratory work 1 and 2 was completed on the following topics:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Version control&lt;/li&gt;
+&lt;li&gt;Mark down.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;lab-1&#34;&gt;Lab #1&lt;/h2&gt;
+&lt;p&gt;As a result of the laboratory work, the ideology and application of version control tools were studied. And also the skills of working with git were mastered, the skills of creating keys, the repository, adding and deleting files from the repository were acquired.&lt;/p&gt;
+&lt;p&gt;The following tasks were completed:&lt;/p&gt;
+&lt;p&gt;– Create a basic configuration for working with git.
+– Create an SSH key.
+– Create a PGP key.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set up git signatures.&lt;/li&gt;
+&lt;li&gt;Register on Github.
+– Create a local directory for completing assignments in the subject.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lab-2&#34;&gt;Lab #2&lt;/h2&gt;
+&lt;p&gt;As a result of the laboratory work, I learned how to format a report using the markdown markup language&lt;/p&gt;
+&lt;p&gt;The following tasks were completed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paste screenshots into the image folder&lt;/li&gt;
+&lt;li&gt;Insert the necessary literature into the cite.bib file&lt;/li&gt;
+&lt;li&gt;Write the text of the report&lt;/li&gt;
+&lt;li&gt;Compile report&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Over the past week, I have mastered the skills of working with Git and Markdown.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FIFOs - First In First Out</title>
