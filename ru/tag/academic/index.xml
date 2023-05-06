@@ -5,12 +5,50 @@
     <link>https://eademidova.github.io/ru/tag/academic/</link>
       <atom:link href="https://eademidova.github.io/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eademidova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://eademidova.github.io/ru/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Неделя 2. НП</title>
+      <link>https://eademidova.github.io/ru/post/week2_2.0/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://eademidova.github.io/ru/post/week2_2.0/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;За прошедшую неделю были выполнены лабораторые работы 3 и 4 на следующие темы:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Введение в работу с Octave&lt;/li&gt;
+&lt;li&gt;Системы линейных уравнений.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;лабораторная-работа-3&#34;&gt;Лабораторная работа №3&lt;/h2&gt;
+&lt;p&gt;В результате выполнения работы научилась выполнять основные вычисления и рисовать простейшие двумерные графики с помощью системы для математических вычислений Octave.&lt;/p&gt;
+&lt;p&gt;Были выполнены следующие задачи:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Выполнить простейшие операции.&lt;/li&gt;
+&lt;li&gt;Выполнить операции с векторами.&lt;/li&gt;
+&lt;li&gt;Вычислить проектор.&lt;/li&gt;
+&lt;li&gt;Выполнить матричные операции.&lt;/li&gt;
+&lt;li&gt;Построить простейшие графики.&lt;/li&gt;
+&lt;li&gt;Построить два графика на одном чертеже.&lt;/li&gt;
+&lt;li&gt;Построить график $y = x^2sin(x)$.&lt;/li&gt;
+&lt;li&gt;Сравненить циклы и операции с векторами&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;лабораторная-работа-4&#34;&gt;Лабораторная работа №4&lt;/h2&gt;
+&lt;p&gt;В результате выполнения работы научилась решать системы линейных уравнениий с помощью системы для математических вычислений Oсtave.&lt;/p&gt;
+&lt;p&gt;Были выполнены следующие задачи:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Решить СЛАУ с помощью Метода Гаусса&lt;/li&gt;
+&lt;li&gt;Решить СЛАУ, применив левое деление&lt;/li&gt;
+&lt;li&gt;Найти LU-разложение&lt;/li&gt;
+&lt;li&gt;Найти LUP-разложение&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;За прошедшую неделю я научилась выполнять основные вычисления и рисовать простейшие двумерные графики с помощью системы для математических вычислений Octave. Также я научилась решать системы линейных уравнениий с помощью системы для математических вычислений Oсtave.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Неделя 1. НП</title>

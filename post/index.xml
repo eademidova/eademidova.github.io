@@ -5,12 +5,50 @@
     <link>https://eademidova.github.io/post/</link>
       <atom:link href="https://eademidova.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eademidova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://eademidova.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Week 2. NP</title>
+      <link>https://eademidova.github.io/post/week2_2.0/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://eademidova.github.io/post/week2_2.0/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Over the past week, laboratory work 3 and 4 were completed on the following topics:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to working with Octave&lt;/li&gt;
+&lt;li&gt;Systems of linear equations.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;lab-3&#34;&gt;Lab №3&lt;/h2&gt;
+&lt;p&gt;As a result of the work, I learned how to perform basic calculations and draw the simplest two-dimensional graphs using the Octave system for mathematical calculations.&lt;/p&gt;
+&lt;p&gt;The following tasks were completed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Perform simple operations.&lt;/li&gt;
+&lt;li&gt;Perform operations with vectors.&lt;/li&gt;
+&lt;li&gt;Calculate projector.&lt;/li&gt;
+&lt;li&gt;Perform matrix operations.&lt;/li&gt;
+&lt;li&gt;Build simple graphs.&lt;/li&gt;
+&lt;li&gt;Build two graphs on one drawing.&lt;/li&gt;
+&lt;li&gt;Plot $y = x^2sin(x)$.&lt;/li&gt;
+&lt;li&gt;Compare cycles and operations with vectors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lab-4&#34;&gt;Lab №4&lt;/h2&gt;
+&lt;p&gt;As a result of the work, I learned how to solve systems of linear equations using the Octave system for mathematical calculations.&lt;/p&gt;
+&lt;p&gt;The following tasks were completed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solve SLAE using the Gauss Method&lt;/li&gt;
+&lt;li&gt;Solve SLAE by applying left division&lt;/li&gt;
+&lt;li&gt;Find LU decomposition&lt;/li&gt;
+&lt;li&gt;Find LUP decomposition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Over the past week, I&amp;rsquo;ve learned how to do basic calculations and draw basic 2D graphs using the Octave math system. I also learned how to solve systems of linear equations using the Octave math system.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 1. NP</title>
