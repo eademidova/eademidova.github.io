@@ -328,4 +328,14 @@
       rel="alternate"
       hreflang="ru"
       href=""
+    /></url>
+  <url>
+    <loc>https://eademidova.github.io/ru/post/week3_2.0/</loc><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://eademidova.github.io/post/week3_2.0/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://eademidova.github.io/ru/post/week3_2.0/"
     /></url></urlset>

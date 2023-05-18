@@ -822,5 +822,27 @@ $$&lt;/p&gt;
       <description></description>
     </item>
     
+    <item>
+      <title>Week 3. NP</title>
+      <link>https://eademidova.github.io/post/week3_2.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eademidova.github.io/post/week3_2.0/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Over the past week, laboratory work 5 on the topic &amp;ldquo;Working with matrices&amp;rdquo; was completed.&lt;/p&gt;
+&lt;h2 id=&#34;lab-5&#34;&gt;Lab #5&lt;/h2&gt;
+&lt;p&gt;As a result of the work, they learned how to fit polynomial curves and perform various matrix transformations using the Octave system for mathematical calculations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Completed tasks&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Perform polynomial curve fitting with Octave.&lt;/li&gt;
+&lt;li&gt;Represent the image using a matrix.&lt;/li&gt;
+&lt;li&gt;Flip the image to a certain angle.&lt;/li&gt;
+&lt;li&gt;Flip the image relative to a straight line.&lt;/li&gt;
+&lt;li&gt;Perform deletion conversion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Over the past week, I have learned how to fit polynomial curves and perform various matrix transformations using the Octave math system.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
